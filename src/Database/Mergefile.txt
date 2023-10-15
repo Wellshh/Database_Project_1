@@ -1,0 +1,495 @@
+233;2001: A Space Odyssey;us;1968;84;peopleid: 7958;credited_as: D
+233;2001: A Space Odyssey;us;1968;84;peopleid: 3937;credited_as: A
+233;2001: A Space Odyssey;us;1968;84;peopleid: 8799;credited_as: A
+233;2001: A Space Odyssey;us;1968;84;peopleid: 14249;credited_as: A
+263;12 Years a Slave;us;2013;134;peopleid: 11606;credited_as: A
+263;12 Years a Slave;us;2013;134;peopleid: 11348;credited_as: A
+263;12 Years a Slave;us;2013;134;peopleid: 15832;credited_as: A
+263;12 Years a Slave;us;2013;134;peopleid: 3163;credited_as: A
+263;12 Years a Slave;us;2013;134;peopleid: 4117;credited_as: A
+263;12 Years a Slave;us;2013;134;peopleid: 9248;credited_as: D
+263;12 Years a Slave;us;2013;134;peopleid: 4386;credited_as: A
+263;12 Years a Slave;us;2013;134;peopleid: 3300;credited_as: A
+263;12 Years a Slave;us;2013;134;peopleid: 5112;credited_as: A
+263;12 Years a Slave;us;2013;134;peopleid: 10843;credited_as: A
+516;12 Angry Men;us;1957;96;peopleid: 4611;credited_as: A
+516;12 Angry Men;us;1957;96;peopleid: 8953;credited_as: D
+516;12 Angry Men;us;1957;96;peopleid: 15355;credited_as: A
+516;12 Angry Men;us;1957;96;peopleid: 2798;credited_as: A
+516;12 Angry Men;us;1957;96;peopleid: 9559;credited_as: A
+516;12 Angry Men;us;1957;96;peopleid: 1071;credited_as: A
+902;4 luni, 3 săptămâni și 2 zile;ro;2007;113;peopleid: 10371;credited_as: D
+902;4 luni, 3 săptămâni și 2 zile;ro;2007;113;peopleid: 9516;credited_as: A
+902;4 luni, 3 săptămâni și 2 zile;ro;2007;113;peopleid: 5101;credited_as: A
+902;4 luni, 3 săptămâni și 2 zile;ro;2007;113;peopleid: 6751;credited_as: A
+902;4 luni, 3 săptămâni și 2 zile;ro;2007;113;peopleid: 11712;credited_as: A
+902;4 luni, 3 săptămâni și 2 zile;ro;2007;113;peopleid: 3216;credited_as: A
+902;4 luni, 3 săptămâni și 2 zile;ro;2007;113;peopleid: 15014;credited_as: A
+992;3 Idiots;in;2009;171;peopleid: 7529;credited_as: A
+992;3 Idiots;in;2009;171;peopleid: 6701;credited_as: A
+992;3 Idiots;in;2009;171;peopleid: 14936;credited_as: A
+992;3 Idiots;in;2009;171;peopleid: 7127;credited_as: A
+992;3 Idiots;in;2009;171;peopleid: 7281;credited_as: A
+992;3 Idiots;in;2009;171;peopleid: 9302;credited_as: A
+992;3 Idiots;in;2009;171;peopleid: 6224;credited_as: D
+1042;2012;us;2009;158;peopleid: 11388;credited_as: A
+1042;2012;us;2009;158;peopleid: 4117;credited_as: A
+1042;2012;us;2009;158;peopleid: 10656;credited_as: A
+1042;2012;us;2009;158;peopleid: 3202;credited_as: A
+1042;2012;us;2009;158;peopleid: 4193;credited_as: D
+1042;2012;us;2009;158;peopleid: 5847;credited_as: A
+1042;2012;us;2009;158;peopleid: 5219;credited_as: A
+1042;2012;us;2009;158;peopleid: 11620;credited_as: A
+1446;The Tell-Tale Heart;us;1941;20;peopleid: 5033;credited_as: A
+1446;The Tell-Tale Heart;us;1941;20;peopleid: 1591;credited_as: D
+1446;The Tell-Tale Heart;us;1941;20;peopleid: 863;credited_as: A
+1446;The Tell-Tale Heart;us;1941;20;peopleid: 4373;credited_as: A
+1680;Greed;us;1924;462;peopleid: 12526;credited_as: A
+1680;Greed;us;1924;462;peopleid: 7416;credited_as: A
+1680;Greed;us;1924;462;peopleid: 11728;credited_as: A
+1680;Greed;us;1924;462;peopleid: 703;credited_as: D
+1680;Greed;us;1924;462;peopleid: 1217;credited_as: D
+1680;Greed;us;1924;462;peopleid: 1012;credited_as: A
+1694;Les Vacances de monsieur Hulot;fr;1953;86;peopleid: 6119;credited_as: A
+1694;Les Vacances de monsieur Hulot;fr;1953;86;peopleid: 6119;credited_as: D
+1694;Les Vacances de monsieur Hulot;fr;1953;86;peopleid: 13105;credited_as: A
+1694;Les Vacances de monsieur Hulot;fr;1953;86;peopleid: 7744;credited_as: A
+1694;Les Vacances de monsieur Hulot;fr;1953;86;peopleid: 7375;credited_as: A
+1694;Les Vacances de monsieur Hulot;fr;1953;86;peopleid: 14707;credited_as: A
+1694;Les Vacances de monsieur Hulot;fr;1953;86;peopleid: 16415;credited_as: A
+1695;(T)Raumschiff Surprise;de;2004;87;peopleid: 1632;credited_as: D
+1695;(T)Raumschiff Surprise;de;2004;87;peopleid: 5121;credited_as: A
+1695;(T)Raumschiff Surprise;de;2004;87;peopleid: 8183;credited_as: A
+1696;11-11-11;us;2011;90;peopleid: 2830;credited_as: A
+1696;11-11-11;us;2011;90;peopleid: 13127;credited_as: A
+1696;11-11-11;us;2011;90;peopleid: 15581;credited_as: A
+1696;11-11-11;us;2011;90;peopleid: 5835;credited_as: D
+1696;11-11-11;us;2011;90;peopleid: 5155;credited_as: A
+1696;11-11-11;us;2011;90;peopleid: 2307;credited_as: A
+1696;11-11-11;us;2011;90;peopleid: 13669;credited_as: A
+1697;12 Rounds;us;2009;109;peopleid: 4984;credited_as: A
+1697;12 Rounds;us;2009;109;peopleid: 5458;credited_as: A
+1697;12 Rounds;us;2009;109;peopleid: 13228;credited_as: A
+1697;12 Rounds;us;2009;109;peopleid: 12684;credited_as: A
+1697;12 Rounds;us;2009;109;peopleid: 15724;credited_as: D
+1698;13 Going on 30;us;2004;97;peopleid: 12824;credited_as: D
+1699;13 Beloved;th;2006;116;peopleid: 6793;credited_as: A
+1699;13 Beloved;th;2006;116;peopleid: 9090;credited_as: A
+1699;13 Beloved;th;2006;116;peopleid: 3202;credited_as: A
+1699;13 Beloved;th;2006;116;peopleid: 13295;credited_as: A
+1699;13 Beloved;th;2006;116;peopleid: 6617;credited_as: D
+1700;1408;us;2007;104;peopleid: 15683;credited_as: A
+1700;1408;us;2007;104;peopleid: 3778;credited_as: D
+1700;1408;us;2007;104;peopleid: 10295;credited_as: A
+1701;16 Blocks;us;2006;110;peopleid: 3903;credited_as: A
+1701;16 Blocks;us;2006;110;peopleid: 15199;credited_as: A
+1701;16 Blocks;us;2006;110;peopleid: 6616;credited_as: A
+1701;16 Blocks;us;2006;110;peopleid: 14863;credited_as: A
+1702;2Bobule;cz;2009;100;peopleid: 2718;credited_as: A
+1702;2Bobule;cz;2009;100;peopleid: 10596;credited_as: A
+1702;2Bobule;cz;2009;100;peopleid: 11743;credited_as: D
+1703;2 Coelhos;br;2012;108;peopleid: 1894;credited_as: A
+1703;2 Coelhos;br;2012;108;peopleid: 3522;credited_as: A
+1703;2 Coelhos;br;2012;108;peopleid: 3522;credited_as: D
+1703;2 Coelhos;br;2012;108;peopleid: 5245;credited_as: A
+1706;Prometheus;us;2012;124;peopleid: 2409;credited_as: A
+1706;Prometheus;us;2012;124;peopleid: 2409;credited_as: D
+1706;Prometheus;us;2012;124;peopleid: 8744;credited_as: A
+1706;Prometheus;us;2012;124;peopleid: 8379;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 5268;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 16283;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 15802;credited_as: D
+1707;20 30 40;tw;2004;113;peopleid: 2567;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 8540;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 2401;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 3769;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 8262;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 15797;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 9188;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 15803;credited_as: D
+1707;20 30 40;tw;2004;113;peopleid: 10663;credited_as: A
+1707;20 30 40;tw;2004;113;peopleid: 2379;credited_as: A
+1708;2046;hk;2004;129;peopleid: 10;credited_as: A
+1708;2046;hk;2004;129;peopleid: 14990;credited_as: D
+1709;2061 - Un anno eccezionale;it;2007;100;peopleid: 8249;credited_as: A
+1709;2061 - Un anno eccezionale;it;2007;100;peopleid: 4719;credited_as: A
+1709;2061 - Un anno eccezionale;it;2007;100;peopleid: 6196;credited_as: A
+1709;2061 - Un anno eccezionale;it;2007;100;peopleid: 3147;credited_as: A
+1709;2061 - Un anno eccezionale;it;2007;100;peopleid: 14392;credited_as: A
+1709;2061 - Un anno eccezionale;it;2007;100;peopleid: 12382;credited_as: A
+1710;21 Jump Street;us;2012;109;peopleid: 8422;credited_as: A
+1711;23:59;sg;2011;78;peopleid: 5458;credited_as: A
+1711;23:59;sg;2011;78;peopleid: 6035;credited_as: A
+1711;23:59;sg;2011;78;peopleid: 1943;credited_as: A
+1711;23:59;sg;2011;78;peopleid: 9551;credited_as: A
+1711;23:59;sg;2011;78;peopleid: 4588;credited_as: D
+1711;23:59;sg;2011;78;peopleid: 11171;credited_as: A
+1711;23:59;sg;2011;78;peopleid: 16465;credited_as: A
+1712;27 Dresses;us;2008;111;peopleid: 2165;credited_as: A
+1712;27 Dresses;us;2008;111;peopleid: 9087;credited_as: A
+1712;27 Dresses;us;2008;111;peopleid: 11688;credited_as: A
+1712;27 Dresses;us;2008;111;peopleid: 12262;credited_as: A
+1712;27 Dresses;us;2008;111;peopleid: 4776;credited_as: D
+1712;27 Dresses;us;2008;111;peopleid: 11450;credited_as: A
+1712;27 Dresses;us;2008;111;peopleid: 4131;credited_as: A
+1712;27 Dresses;us;2008;111;peopleid: 2006;credited_as: A
+1713;28 Weeks Later;gb;2007;100;peopleid: 4668;credited_as: A
+1713;28 Weeks Later;gb;2007;100;peopleid: 13662;credited_as: D
+1713;28 Weeks Later;gb;2007;100;peopleid: 5902;credited_as: A
+1713;28 Weeks Later;gb;2007;100;peopleid: 6586;credited_as: A
+1713;28 Weeks Later;gb;2007;100;peopleid: 1562;credited_as: A
+1713;28 Weeks Later;gb;2007;100;peopleid: 5062;credited_as: A
+1714;30 Days of Night;us;2007;113;peopleid: 6371;credited_as: D
+1714;30 Days of Night;us;2007;113;peopleid: 8691;credited_as: A
+1714;30 Days of Night;us;2007;113;peopleid: 2080;credited_as: A
+1715;3096;de;2013;null;peopleid: 11392;credited_as: A
+1715;3096;de;2013;null;peopleid: 11392;credited_as: D
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 795;credited_as: A
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 4613;credited_as: A
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 10126;credited_as: A
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 3122;credited_as: A
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 4668;credited_as: A
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 9443;credited_as: D
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 12444;credited_as: A
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 14811;credited_as: A
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 13353;credited_as: A
+1717;The Twilight Saga: New Moon;us;2009;130;peopleid: 8514;credited_as: A
+1718;3:10 to Yuma;us;2007;122;peopleid: 15995;credited_as: A
+1718;3:10 to Yuma;us;2007;122;peopleid: 9127;credited_as: A
+1718;3:10 to Yuma;us;2007;122;peopleid: 12820;credited_as: A
+1720;Dark Flight;th;2012;105;peopleid: 4762;credited_as: A
+1720;Dark Flight;th;2012;105;peopleid: 7404;credited_as: A
+1720;Dark Flight;th;2012;105;peopleid: 8826;credited_as: D
+1723;Zindagi 50-50;in;2013;130;peopleid: 1758;credited_as: D
+1724;7 Pecados Rurais;pt;2013;null;peopleid: 15211;credited_as: A
+1725;7 Zwerge – Der Wald ist nicht genug;de;2006;87;peopleid: 1539;credited_as: A
+1725;7 Zwerge – Der Wald ist nicht genug;de;2006;87;peopleid: 15093;credited_as: A
+1725;7 Zwerge – Der Wald ist nicht genug;de;2006;87;peopleid: 13056;credited_as: A
+1725;7 Zwerge – Der Wald ist nicht genug;de;2006;87;peopleid: 16484;credited_as: A
+1726;7 dní hříchů;cz;2012;107;peopleid: 8872;credited_as: D
+1726;7 dní hříchů;cz;2012;107;peopleid: 128;credited_as: A
+1726;7 dní hříchů;cz;2012;107;peopleid: 5360;credited_as: A
+1726;7 dní hříchů;cz;2012;107;peopleid: 11468;credited_as: A
+1726;7 dní hříchů;cz;2012;107;peopleid: 8513;credited_as: A
+1727;8-pallo;fi;2013;107;peopleid: 11107;credited_as: A
+1727;8-pallo;fi;2013;107;peopleid: 1743;credited_as: A
+1727;8-pallo;fi;2013;107;peopleid: 13742;credited_as: A
+1727;8-pallo;fi;2013;107;peopleid: 15769;credited_as: A
+1727;8-pallo;fi;2013;107;peopleid: 640;credited_as: D
+1727;8-pallo;fi;2013;107;peopleid: 9130;credited_as: A
+1727;8-pallo;fi;2013;107;peopleid: 9204;credited_as: A
+1727;8-pallo;fi;2013;107;peopleid: 14902;credited_as: A
+1728;88 Minutes;us;2007;111;peopleid: 3970;credited_as: A
+1728;88 Minutes;us;2007;111;peopleid: 3970;credited_as: D
+1728;88 Minutes;us;2007;111;peopleid: 7579;credited_as: A
+1818;Anchorman: The Legend of Ron Burgundy;us;2004;94;peopleid: 1101;credited_as: A
+1818;Anchorman: The Legend of Ron Burgundy;us;2004;94;peopleid: 3190;credited_as: A
+1818;Anchorman: The Legend of Ron Burgundy;us;2004;94;peopleid: 4193;credited_as: D
+1818;Anchorman: The Legend of Ron Burgundy;us;2004;94;peopleid: 14063;credited_as: A
+1818;Anchorman: The Legend of Ron Burgundy;us;2004;94;peopleid: 888;credited_as: A
+1818;Anchorman: The Legend of Ron Burgundy;us;2004;94;peopleid: 716;credited_as: A
+1819;10,000 BC;us;2008;109;peopleid: 9923;credited_as: A
+1819;10,000 BC;us;2008;109;peopleid: 9923;credited_as: D
+1819;10,000 BC;us;2008;109;peopleid: 9373;credited_as: A
+1819;10,000 BC;us;2008;109;peopleid: 4982;credited_as: A
+1819;10,000 BC;us;2008;109;peopleid: 4884;credited_as: A
+1819;10,000 BC;us;2008;109;peopleid: 11482;credited_as: A
+1820;12;ru;2007;159;peopleid: 13933;credited_as: A
+1820;12;ru;2007;159;peopleid: 15741;credited_as: A
+1820;12;ru;2007;159;peopleid: 12637;credited_as: A
+1820;12;ru;2007;159;peopleid: 12389;credited_as: A
+1820;12;ru;2007;159;peopleid: 3;credited_as: A
+1820;12;ru;2007;159;peopleid: 680;credited_as: D
+1821;13;us;2010;97;peopleid: 4083;credited_as: A
+1821;13;us;2010;97;peopleid: 9457;credited_as: A
+1821;13;us;2010;97;peopleid: 14699;credited_as: A
+1821;13;us;2010;97;peopleid: 11458;credited_as: A
+1821;13;us;2010;97;peopleid: 13948;credited_as: D
+1821;13;us;2010;97;peopleid: 7766;credited_as: A
+1823;Dos más dos;ar;2012;107;peopleid: 1607;credited_as: A
+1823;Dos más dos;ar;2012;107;peopleid: 14103;credited_as: A
+1823;Dos más dos;ar;2012;107;peopleid: 13825;credited_as: A
+1823;Dos más dos;ar;2012;107;peopleid: 4543;credited_as: A
+1823;Dos más dos;ar;2012;107;peopleid: 8948;credited_as: D
+1823;Dos más dos;ar;2012;107;peopleid: 16102;credited_as: A
+1823;Dos más dos;ar;2012;107;peopleid: 8236;credited_as: A
+1823;Dos más dos;ar;2012;107;peopleid: 11609;credited_as: A
+1825;Jesus Christ Superstar;us;1973;106;peopleid: 6585;credited_as: A
+1825;Jesus Christ Superstar;us;1973;106;peopleid: 7477;credited_as: A
+1825;Jesus Christ Superstar;us;1973;106;peopleid: 12523;credited_as: A
+1825;Jesus Christ Superstar;us;1973;106;peopleid: 5314;credited_as: A
+1825;Jesus Christ Superstar;us;1973;106;peopleid: 6412;credited_as: A
+2439;I Am a Fugitive from a Chain Gang;us;1932;93;peopleid: 1965;credited_as: A
+2439;I Am a Fugitive from a Chain Gang;us;1932;93;peopleid: 6572;credited_as: A
+2439;I Am a Fugitive from a Chain Gang;us;1932;93;peopleid: 3200;credited_as: A
+2439;I Am a Fugitive from a Chain Gang;us;1932;93;peopleid: 11946;credited_as: D
+2439;I Am a Fugitive from a Chain Gang;us;1932;93;peopleid: 2328;credited_as: A
+2439;I Am a Fugitive from a Chain Gang;us;1932;93;peopleid: 5732;credited_as: A
+2811;Die Drei von der Tankstelle;de;1930;99;peopleid: 336;credited_as: A
+2811;Die Drei von der Tankstelle;de;1930;99;peopleid: 15812;credited_as: A
+2811;Die Drei von der Tankstelle;de;1930;99;peopleid: 15006;credited_as: A
+2811;Die Drei von der Tankstelle;de;1930;99;peopleid: 9235;credited_as: D
+2811;Die Drei von der Tankstelle;de;1930;99;peopleid: 6271;credited_as: A
+2975;The Iron Mask;us;1929;95;peopleid: 7162;credited_as: A
+2975;The Iron Mask;us;1929;95;peopleid: 11233;credited_as: A
+3223;Bom yeoreum gaeul gyeoul geurigo bom;kr;2003;103;peopleid: 6665;credited_as: D
+3223;Bom yeoreum gaeul gyeoul geurigo bom;kr;2003;103;peopleid: 11099;credited_as: A
+3223;Bom yeoreum gaeul gyeoul geurigo bom;kr;2003;103;peopleid: 12816;credited_as: A
+3315;Them!;us;1954;94;peopleid: 3548;credited_as: D
+3315;Them!;us;1954;94;peopleid: 4045;credited_as: A
+3367;Dear Diary;us;1996;38;peopleid: 2273;credited_as: D
+3367;Dear Diary;us;1996;38;peopleid: 6116;credited_as: A
+3367;Dear Diary;us;1996;38;peopleid: 15839;credited_as: A
+3367;Dear Diary;us;1996;38;peopleid: 3453;credited_as: A
+3367;Dear Diary;us;1996;38;peopleid: 9983;credited_as: A
+3479;The Royal Tenenbaums;us;2001;109;peopleid: 2785;credited_as: A
+3479;The Royal Tenenbaums;us;2001;109;peopleid: 5526;credited_as: A
+3479;The Royal Tenenbaums;us;2001;109;peopleid: 9184;credited_as: A
+3479;The Royal Tenenbaums;us;2001;109;peopleid: 3567;credited_as: A
+3479;The Royal Tenenbaums;us;2001;109;peopleid: 8659;credited_as: D
+3753;Within Our Gates;us;1920;79;peopleid: 15385;credited_as: A
+3753;Within Our Gates;us;1920;79;peopleid: 8304;credited_as: A
+3753;Within Our Gates;us;1920;79;peopleid: 8143;credited_as: A
+3850;Santa Fe Trail;us;1940;110;peopleid: 12057;credited_as: A
+3850;Santa Fe Trail;us;1940;110;peopleid: 11138;credited_as: D
+3850;Santa Fe Trail;us;1940;110;peopleid: 4059;credited_as: A
+3850;Santa Fe Trail;us;1940;110;peopleid: 11321;credited_as: A
+3851;7 Faces of Dr. Lao;us;1964;100;peopleid: 11637;credited_as: A
+3851;7 Faces of Dr. Lao;us;1964;100;peopleid: 15683;credited_as: A
+3851;7 Faces of Dr. Lao;us;1964;100;peopleid: 11606;credited_as: A
+3851;7 Faces of Dr. Lao;us;1964;100;peopleid: 14057;credited_as: A
+3851;7 Faces of Dr. Lao;us;1964;100;peopleid: 5158;credited_as: D
+3851;7 Faces of Dr. Lao;us;1964;100;peopleid: 10287;credited_as: A
+3852;12 Monkeys;us;1995;129;peopleid: 7176;credited_as: D
+3852;12 Monkeys;us;1995;129;peopleid: 6363;credited_as: A
+3852;12 Monkeys;us;1995;129;peopleid: 14410;credited_as: A
+3852;12 Monkeys;us;1995;129;peopleid: 11840;credited_as: A
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 2908;credited_as: A
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 6069;credited_as: A
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 13228;credited_as: A
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 13579;credited_as: A
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 2924;credited_as: A
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 15745;credited_as: D
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 11694;credited_as: A
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 6834;credited_as: A
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 5870;credited_as: A
+3853;20 Million Miles to Earth.;us;1957;82;peopleid: 7382;credited_as: A
+3854;24 Hour Party People;gb;2002;117;peopleid: 6071;credited_as: A
+3854;24 Hour Party People;gb;2002;117;peopleid: 14029;credited_as: D
+3854;24 Hour Party People;gb;2002;117;peopleid: 12152;credited_as: D
+3855;25 watts;uy;2001;92;peopleid: 4047;credited_as: A
+3855;25 watts;uy;2001;92;peopleid: 5863;credited_as: A
+3855;25 watts;uy;2001;92;peopleid: 1665;credited_as: D
+3855;25 watts;uy;2001;92;peopleid: 5208;credited_as: A
+3855;25 watts;uy;2001;92;peopleid: 10395;credited_as: A
+3855;25 watts;uy;2001;92;peopleid: 1951;credited_as: A
+3856;28 Days Later;gb;2002;113;peopleid: 7388;credited_as: A
+3856;28 Days Later;gb;2002;113;peopleid: 13928;credited_as: A
+3856;28 Days Later;gb;2002;113;peopleid: 1350;credited_as: A
+3856;28 Days Later;gb;2002;113;peopleid: 11157;credited_as: D
+3856;28 Days Later;gb;2002;113;peopleid: 16227;credited_as: D
+4096;Jaane Bhi Do Yaaro;in;1983;132;peopleid: 12909;credited_as: A
+4096;Jaane Bhi Do Yaaro;in;1983;132;peopleid: 6004;credited_as: A
+4096;Jaane Bhi Do Yaaro;in;1983;132;peopleid: 9669;credited_as: A
+4096;Jaane Bhi Do Yaaro;in;1983;132;peopleid: 5431;credited_as: A
+4096;Jaane Bhi Do Yaaro;in;1983;132;peopleid: 13923;credited_as: A
+4096;Jaane Bhi Do Yaaro;in;1983;132;peopleid: 10414;credited_as: D
+4096;Jaane Bhi Do Yaaro;in;1983;132;peopleid: 15529;credited_as: A
+4350;Zombi 2;it;1979;null;peopleid: 4631;credited_as: A
+4350;Zombi 2;it;1979;null;peopleid: 4371;credited_as: A
+4350;Zombi 2;it;1979;null;peopleid: 6033;credited_as: A
+4350;Zombi 2;it;1979;null;peopleid: 3357;credited_as: D
+4495;Gauravam;in;1973;136;peopleid: 12003;credited_as: A
+4495;Gauravam;in;1973;136;peopleid: 5639;credited_as: A
+4495;Gauravam;in;1973;136;peopleid: 13872;credited_as: A
+4495;Gauravam;in;1973;136;peopleid: 1301;credited_as: D
+4582;30 Days in Atlanta;ng;2014;0;peopleid: 15598;credited_as: A
+4582;30 Days in Atlanta;ng;2014;0;peopleid: 6623;credited_as: A
+4582;30 Days in Atlanta;ng;2014;0;peopleid: 9901;credited_as: A
+4582;30 Days in Atlanta;ng;2014;0;peopleid: 4692;credited_as: A
+4582;30 Days in Atlanta;ng;2014;0;peopleid: 10807;credited_as: A
+4582;30 Days in Atlanta;ng;2014;0;peopleid: 10101;credited_as: A
+4582;30 Days in Atlanta;ng;2014;0;peopleid: 4154;credited_as: A
+4582;30 Days in Atlanta;ng;2014;0;peopleid: 10927;credited_as: A
+4582;30 Days in Atlanta;ng;2014;0;peopleid: 11476;credited_as: D
+4793;Paar;in;1984;0;peopleid: 12909;credited_as: A
+4793;Paar;in;1984;0;peopleid: 1986;credited_as: A
+4793;Paar;in;1984;0;peopleid: 6004;credited_as: A
+4793;Paar;in;1984;0;peopleid: 15542;credited_as: A
+4793;Paar;in;1984;0;peopleid: 13739;credited_as: D
+4793;Paar;in;1984;0;peopleid: 15529;credited_as: A
+4793;Paar;in;1984;0;peopleid: 3170;credited_as: A
+4859;Paa;in;2009;133;peopleid: 7711;credited_as: A
+4859;Paa;in;2009;133;peopleid: 10029;credited_as: A
+4859;Paa;in;2009;133;peopleid: 749;credited_as: A
+4859;Paa;in;2009;133;peopleid: 7369;credited_as: A
+5153;The Magnificent Seven;us;2016;133;peopleid: 2310;credited_as: A
+5153;The Magnificent Seven;us;2016;133;peopleid: 1441;credited_as: D
+5153;The Magnificent Seven;us;2016;133;peopleid: 1135;credited_as: A
+5155;Out of Season;gb;1975;90;peopleid: 14679;credited_as: A
+5155;Out of Season;gb;1975;90;peopleid: 11162;credited_as: A
+5155;Out of Season;gb;1975;90;peopleid: 1689;credited_as: D
+5212;Ijé;ng;2010;107;peopleid: 460;credited_as: A
+5212;Ijé;ng;2010;107;peopleid: 8234;credited_as: A
+5233;Boeing Boeing;us;1965;102;peopleid: 9484;credited_as: A
+5233;Boeing Boeing;us;1965;102;peopleid: 14337;credited_as: A
+5233;Boeing Boeing;us;1965;102;peopleid: 1665;credited_as: D
+5233;Boeing Boeing;us;1965;102;peopleid: 4720;credited_as: A
+5565;Valley of the Kings;us;1954;86;peopleid: 8864;credited_as: A
+5565;Valley of the Kings;us;1954;86;peopleid: 9638;credited_as: A
+5565;Valley of the Kings;us;1954;86;peopleid: 3821;credited_as: A
+5565;Valley of the Kings;us;1954;86;peopleid: 4576;credited_as: D
+5565;Valley of the Kings;us;1954;86;peopleid: 8945;credited_as: A
+5656;Casanova's Big Night;us;1954;0;peopleid: 3883;credited_as: A
+5656;Casanova's Big Night;us;1954;0;peopleid: 10855;credited_as: A
+5656;Casanova's Big Night;us;1954;0;peopleid: 7942;credited_as: A
+5656;Casanova's Big Night;us;1954;0;peopleid: 10648;credited_as: D
+5682;Die weiße Rose;de;1982;123;peopleid: 3032;credited_as: A
+5682;Die weiße Rose;de;1982;123;peopleid: 12048;credited_as: A
+5682;Die weiße Rose;de;1982;123;peopleid: 5672;credited_as: D
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 13850;credited_as: D
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 1120;credited_as: A
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 8390;credited_as: A
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 10920;credited_as: A
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 650;credited_as: A
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 1034;credited_as: A
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 15677;credited_as: A
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 13890;credited_as: A
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 9670;credited_as: A
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 5000;credited_as: A
+5705;The Eagle Has Landed;gb;1976;135;peopleid: 5729;credited_as: A
+5731;Manchester by the Sea;us;2016;137;peopleid: 1140;credited_as: A
+5731;Manchester by the Sea;us;2016;137;peopleid: 4346;credited_as: A
+5731;Manchester by the Sea;us;2016;137;peopleid: 5093;credited_as: A
+5731;Manchester by the Sea;us;2016;137;peopleid: 3128;credited_as: A
+5731;Manchester by the Sea;us;2016;137;peopleid: 9979;credited_as: D
+5731;Manchester by the Sea;us;2016;137;peopleid: 16348;credited_as: A
+6193;Sophie's Choice;us;1982;151;peopleid: 12207;credited_as: A
+6193;Sophie's Choice;us;1982;151;peopleid: 12867;credited_as: A
+6193;Sophie's Choice;us;1982;151;peopleid: 7591;credited_as: A
+6367;Dolores Claiborne;us;1995;131;peopleid: 15211;credited_as: A
+6367;Dolores Claiborne;us;1995;131;peopleid: 6259;credited_as: A
+6401;Snowpiercer;cz;2013;126;peopleid: 5285;credited_as: A
+6401;Snowpiercer;cz;2013;126;peopleid: 15739;credited_as: A
+6401;Snowpiercer;cz;2013;126;peopleid: 14698;credited_as: D
+6401;Snowpiercer;cz;2013;126;peopleid: 4902;credited_as: A
+6458;Seven Men from Now;us;1956;78;peopleid: 13202;credited_as: D
+6458;Seven Men from Now;us;1956;78;peopleid: 2462;credited_as: A
+6458;Seven Men from Now;us;1956;78;peopleid: 7470;credited_as: A
+6458;Seven Men from Now;us;1956;78;peopleid: 12653;credited_as: A
+6458;Seven Men from Now;us;1956;78;peopleid: 7471;credited_as: A
+6570;Blow Out;us;1981;108;peopleid: 8373;credited_as: A
+6570;Blow Out;us;1981;108;peopleid: 14011;credited_as: A
+6570;Blow Out;us;1981;108;peopleid: 5314;credited_as: A
+6570;Blow Out;us;1981;108;peopleid: 11765;credited_as: A
+6570;Blow Out;us;1981;108;peopleid: 7173;credited_as: D
+6570;Blow Out;us;1981;108;peopleid: 10995;credited_as: A
+6570;Blow Out;us;1981;108;peopleid: 7943;credited_as: A
+6626;The Black Rose;us;1950;120;peopleid: 14053;credited_as: A
+6626;The Black Rose;us;1950;120;peopleid: 6196;credited_as: A
+6626;The Black Rose;us;1950;120;peopleid: 3147;credited_as: A
+6626;The Black Rose;us;1950;120;peopleid: 14392;credited_as: A
+6708;Série noire;fr;1979;111;peopleid: 2785;credited_as: A
+6708;Série noire;fr;1979;111;peopleid: 11633;credited_as: A
+6708;Série noire;fr;1979;111;peopleid: 12345;credited_as: A
+6708;Série noire;fr;1979;111;peopleid: 3294;credited_as: A
+6708;Série noire;fr;1979;111;peopleid: 6121;credited_as: D
+6758;'76;ng;2016;0;peopleid: 13625;credited_as: A
+6758;'76;ng;2016;0;peopleid: 4834;credited_as: D
+6758;'76;ng;2016;0;peopleid: 4706;credited_as: A
+6758;'76;ng;2016;0;peopleid: 6683;credited_as: A
+6758;'76;ng;2016;0;peopleid: 8506;credited_as: A
+6767;Little Women;us;1994;118;peopleid: 10807;credited_as: A
+6767;Little Women;us;1994;118;peopleid: 4497;credited_as: A
+6819;Great Expectations;us;1998;111;peopleid: 838;credited_as: A
+6819;Great Expectations;us;1998;111;peopleid: 11004;credited_as: A
+6819;Great Expectations;us;1998;111;peopleid: 8473;credited_as: A
+6819;Great Expectations;us;1998;111;peopleid: 3473;credited_as: D
+7090;Star Spangled Rhythm;us;1942;99;peopleid: 392;credited_as: A
+7090;Star Spangled Rhythm;us;1942;99;peopleid: 2726;credited_as: D
+7090;Star Spangled Rhythm;us;1942;99;peopleid: 2979;credited_as: A
+7090;Star Spangled Rhythm;us;1942;99;peopleid: 12378;credited_as: A
+7251;Call Me by Your Name;it;2017;132;peopleid: 9448;credited_as: D
+7251;Call Me by Your Name;it;2017;132;peopleid: 9638;credited_as: A
+7251;Call Me by Your Name;it;2017;132;peopleid: 12264;credited_as: A
+7251;Call Me by Your Name;it;2017;132;peopleid: 3328;credited_as: A
+7503;Coco;us;2017;109;peopleid: 3586;credited_as: A
+7503;Coco;us;2017;109;peopleid: 15447;credited_as: D
+7503;Coco;us;2017;109;peopleid: 5314;credited_as: A
+7506;7aum Arivu;in;2011;168;peopleid: 1013;credited_as: D
+7506;7aum Arivu;in;2011;168;peopleid: 3247;credited_as: A
+7506;7aum Arivu;in;2011;168;peopleid: 7907;credited_as: A
+7506;7aum Arivu;in;2011;168;peopleid: 9604;credited_as: A
+7506;7aum Arivu;in;2011;168;peopleid: 13079;credited_as: A
+7506;7aum Arivu;in;2011;168;peopleid: 13968;credited_as: A
+7507;8 Mile;us;2002;110;peopleid: 3297;credited_as: A
+7507;8 Mile;us;2002;110;peopleid: 3227;credited_as: A
+7507;8 Mile;us;2002;110;peopleid: 3160;credited_as: A
+7507;8 Mile;us;2002;110;peopleid: 6422;credited_as: A
+7507;8 Mile;us;2002;110;peopleid: 9295;credited_as: A
+7510;A Business Affair;gb;1994;102;peopleid: 6987;credited_as: A
+7510;A Business Affair;gb;1994;102;peopleid: 5746;credited_as: A
+7510;A Business Affair;gb;1994;102;peopleid: 719;credited_as: A
+7510;A Business Affair;gb;1994;102;peopleid: 13251;credited_as: A
+7511;A Child Is Waiting;us;1963;102;peopleid: 14834;credited_as: D
+7511;A Child Is Waiting;us;1963;102;peopleid: 14725;credited_as: A
+7512;A Civil Action;us;1999;115;peopleid: 12799;credited_as: A
+7512;A Civil Action;us;1999;115;peopleid: 4983;credited_as: A
+7512;A Civil Action;us;1999;115;peopleid: 13157;credited_as: D
+7512;A Civil Action;us;1999;115;peopleid: 14419;credited_as: A
+7513;A Day Without a Mexican;us;2004;100;peopleid: 4632;credited_as: A
+7513;A Day Without a Mexican;us;2004;100;peopleid: 1075;credited_as: A
+7513;A Day Without a Mexican;us;2004;100;peopleid: 6046;credited_as: D
+7513;A Day Without a Mexican;us;2004;100;peopleid: 9814;credited_as: A
+7513;A Day Without a Mexican;us;2004;100;peopleid: 14811;credited_as: A
+7513;A Day Without a Mexican;us;2004;100;peopleid: 1599;credited_as: A
+7513;A Day Without a Mexican;us;2004;100;peopleid: 8705;credited_as: A
+7513;A Day Without a Mexican;us;2004;100;peopleid: 1403;credited_as: A
+7513;A Day Without a Mexican;us;2004;100;peopleid: 9867;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 4116;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 10555;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 10470;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 10504;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 16252;credited_as: D
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 10983;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 16129;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 10070;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 4103;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 13452;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 646;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 10945;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 12968;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 7957;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 12805;credited_as: A
+7515;Posti in piedi in paradiso;it;2012;119;peopleid: 14313;credited_as: A
+7517;Ssanghwajeom;kr;2008;132;peopleid: 5640;credited_as: A
+7517;Ssanghwajeom;kr;2008;132;peopleid: 14198;credited_as: A
+7517;Ssanghwajeom;kr;2008;132;peopleid: 10678;credited_as: A
+7518;A Goofy Movie;us;1995;78;peopleid: 964;credited_as: A
+7518;A Goofy Movie;us;1995;78;peopleid: 10394;credited_as: A
+7518;A Goofy Movie;us;1995;78;peopleid: 5783;credited_as: D
+7518;A Goofy Movie;us;1995;78;peopleid: 11511;credited_as: A
+7518;A Goofy Movie;us;1995;78;peopleid: 4188;credited_as: A
+7519;A Knight's Tale;us;2001;132;peopleid: 4612;credited_as: A
+7519;A Knight's Tale;us;2001;132;peopleid: 14641;credited_as: A
+7519;A Knight's Tale;us;2001;132;peopleid: 2835;credited_as: A
+7519;A Knight's Tale;us;2001;132;peopleid: 6180;credited_as: D
+7519;A Knight's Tale;us;2001;132;peopleid: 11282;credited_as: A
+7674;Bulong;ph;2011;0;peopleid: 11156;credited_as: A
+7674;Bulong;ph;2011;0;peopleid: 6523;credited_as: A
+7674;Bulong;ph;2011;0;peopleid: 3184;credited_as: D
+8209;Monsters University;us;2013;104;peopleid: 11232;credited_as: A
+8209;Monsters University;us;2013;104;peopleid: 12765;credited_as: A
+8209;Monsters University;us;2013;104;peopleid: 8401;credited_as: D
+8209;Monsters University;us;2013;104;peopleid: 7210;credited_as: A
+8210;Moon Over Parador;us;1988;103;peopleid: 5630;credited_as: A
+8210;Moon Over Parador;us;1988;103;peopleid: 6657;credited_as: A
+8210;Moon Over Parador;us;1988;103;peopleid: 16113;credited_as: D
+8252;Sinsegye;kr;2013;134;peopleid: 7607;credited_as: A
+8252;Sinsegye;kr;2013;134;peopleid: 7252;credited_as: A
+8558;Tango & Cash;us;1989;104;peopleid: 934;credited_as: A
+8558;Tango & Cash;us;1989;104;peopleid: 574;credited_as: A
+8558;Tango & Cash;us;1989;104;peopleid: 650;credited_as: A
+8558;Tango & Cash;us;1989;104;peopleid: 13171;credited_as: D
+8558;Tango & Cash;us;1989;104;peopleid: 12888;credited_as: A
+8558;Tango & Cash;us;1989;104;peopleid: 13064;credited_as: A
